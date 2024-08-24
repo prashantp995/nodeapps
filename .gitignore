@@ -1,1 +1,4 @@
 notes-app/node_modules
+weather-app/node_modules
+weather-app/utils/keys.js
+node_modules
